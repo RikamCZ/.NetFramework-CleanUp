@@ -1,0 +1,6 @@
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\bin\Debug\CleanUp.exe.config
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\bin\Debug\CleanUp.exe
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\bin\Debug\CleanUp.pdb
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\obj\Debug\CleanUp.csprojResolveAssemblyReference.cache
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\obj\Debug\CleanUp.exe
+c:\users\rikam.palkar\documents\visual studio 2015\Projects\CleanUp\CleanUp\obj\Debug\CleanUp.pdb
